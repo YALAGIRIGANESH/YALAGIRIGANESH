@@ -2,4 +2,4 @@
 - 👀 I’m interested in Java Full Stack Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 you can reach though:ganeshgana5341@gmail.com
+- 📫 You can Reach me through:ganeshgana5341@gmail.com
